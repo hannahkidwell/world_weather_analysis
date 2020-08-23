@@ -2,7 +2,10 @@
 config.py
 
 # Adding other files
-WeatherPy-test.ipynb
+WeatherPy.ipynb
+VacationPy.ipynb
+random-numbers.ipynb
+Google_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
