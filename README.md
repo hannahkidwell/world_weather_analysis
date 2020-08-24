@@ -1,3 +1,3 @@
-# world_weather_analysis
+# World Weather Analysis
 
 Project in folders.
